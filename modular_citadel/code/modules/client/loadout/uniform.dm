@@ -94,7 +94,7 @@
 /datum/gear/uniform/bodyguard
 	name = "bodyguard outfit"
 	path = /obj/item/clothing/under/f13/bodyguard
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/cowboy
 	name = "cowboy outfit, brown"
@@ -111,12 +111,12 @@
 /datum/gear/uniform/combat
 	name = "combat uniform"
 	path = /obj/item/clothing/under/f13/combat_shirt
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/bdu
 	name = "battle dress uniform"
 	path = /obj/item/clothing/under/f13/bdu
-	cost = 3
+	cost = 1
 
 /datum/gear/uniform/bdu/desert
 	name = "desert battle dress uniform"
@@ -172,47 +172,47 @@
 	name = "black suit"
 	path = /obj/item/clothing/under/suit/black
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_SUITS
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/suit/green
 	name = "green suit"
 	path = /obj/item/clothing/under/suit/green
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/suit/red
 	name = "red suit"
 	path = /obj/item/clothing/under/suit/red
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/suit/fancy_checkeredsuit
 	name = "fancy checkered suit"
 	path = /obj/item/clothing/under/f13/fashion/suit_and_tie/benny
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/suit/checkered_suit
 	name = "checkered suit"
 	path = /obj/item/clothing/under/suit/checkered
-	cost = 3
+	cost = 1
 
 /datum/gear/uniform/suit/navy
 	name = "navy suit"
 	path = /obj/item/clothing/under/suit/navy
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/suit/burgundy
 	name = "fancy burgundy suit"
 	path = /obj/item/clothing/under/f13/fashion/suit_and_tie
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/suit/tan
 	name = "tan suit"
 	path = /obj/item/clothing/under/suit/tan
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/suit/white
 	name = "white suit"
 	path = /obj/item/clothing/under/suit/white
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/mailmanuniform
 	name = "mailman's jumpsuit"
@@ -224,7 +224,7 @@
 	name = "striped dress"
 	path = /obj/item/clothing/under/dress/striped
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_DRESSES
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/dress/housewife
 	name = "yellow pre-war dress"
@@ -237,32 +237,32 @@
 /datum/gear/uniform/dress/sun/white
 	name = "white sundress"
 	path = /obj/item/clothing/under/dress/sundress/white
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/dress/sun
 	name = "sundress"
 	path = /obj/item/clothing/under/dress/sundress
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/dress/green
 	name = "green dress"
 	path = /obj/item/clothing/under/f13/greendress
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/dress/pink
 	name = "pink dress"
 	path = /obj/item/clothing/under/f13/pinkdress
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/dress/blue
 	name = "blue dress"
 	path = /obj/item/clothing/under/f13/bluedress
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/dress/orange
 	name = "flower dress"
 	path = /obj/item/clothing/under/dress/flower
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/dress/bustle
 	name = "western bustle dress"
@@ -281,7 +281,7 @@
 /datum/gear/uniform/skirt/swept
 	name = "swept skirt"
 	path = /obj/item/clothing/under/dress/skirt/swept
-	cost = 3
+	cost = 1
 
 /datum/gear/uniform/pants
 	name = "yoga pants"
@@ -291,7 +291,7 @@
 /datum/gear/uniform/kilt
 	name = "kilt"
 	path = /obj/item/clothing/under/costume/kilt
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/pants/camo
 	name = "camo pants"
@@ -357,17 +357,17 @@
 /datum/gear/uniform/tealturtle
 	name = "teal turtleneck"
 	path = /obj/item/clothing/under/suit/turtle/teal
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/greyturtle
 	name = "grey turtleneck"
 	path = /obj/item/clothing/under/suit/turtle/grey
-	cost = 2
+	cost = 1
 /*
 /datum/gear/uniform/detbrown
 	name = "Brown Worn Suit"
 	path = /obj/item/clothing/under/rank/security/detective/brown
-	cost = 2
+	cost = 1
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_SUITS
 
 /datum/gear/uniform/detbrown/detbrown2
@@ -445,7 +445,7 @@
 	name = "Pink stripper outfit"
 	category = SLOT_W_UNIFORM
 	path = /obj/item/clothing/under/misc/stripper
-	cost = 3
+	cost = 1
 */
 
 /datum/gear/uniform/flapper
@@ -455,7 +455,7 @@
 /datum/gear/uniform/prostitute
 	name = "male prostitute outfit"
 	path = /obj/item/clothing/under/f13/mprostitute
-	cost = 3
+	cost = 1
 
 /datum/gear/uniform/prostitute/female
 	name = "female prostitute outfit"
@@ -464,43 +464,43 @@
 /datum/gear/uniform/greenstripper
 	name = "green stripper outfit"
 	path = /obj/item/clothing/under/misc/stripper/green
-	cost = 5
+	cost = 1
 /*
 /datum/gear/uniform/qipao
 	name = "Qipao, Black"
 	path = /obj/item/clothing/under/costume/qipao
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_DRESSES
-	cost = 3
+	cost = 1
 
 /datum/gear/uniform/qipao/white
 	name = "Qipao, White"
 	path = /obj/item/clothing/under/costume/qipao/white
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_DRESSES
-	cost = 3
+	cost = 1
 
 /datum/gear/uniform/qipao/red
 	name = "Qipao, Red"
 	path = /obj/item/clothing/under/costume/qipao/red
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_DRESSES
-	cost = 3
+	cost = 1
 
 /datum/gear/uniform/cheongsam
 	name = "Cheongsam, Black"
 	path = /obj/item/clothing/under/costume/cheongsam
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_DRESSES
-	cost = 3
+	cost = 1
 
 /datum/gear/uniform/cheongsam/white
 	name = "Cheongsam, White"
 	path = /obj/item/clothing/under/costume/cheongsam/white
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_DRESSES
-	cost = 3
+	cost = 1
 
 /datum/gear/uniform/cheongsam/red
 	name = "Cheongsam, Red"
 	path = /obj/item/clothing/under/costume/cheongsam/red
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_DRESSES
-	cost = 3
+	cost = 1
 */
 
 /datum/gear/uniform/dress/black
@@ -549,46 +549,46 @@
 /datum/gear/uniform/police
 	name = "Police Officer's uniform"
 	path = /obj/item/clothing/under/f13/police/officer
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/police/lieutenant
 	name = "Police Lieutenant's uniform"
 	path = /obj/item/clothing/under/f13/police/lieutenant
-	cost = 3
+	cost = 1
 
 //US
 
 /datum/gear/uniform/usarmy
 	name = "US Army combat uniform"
 	path = /obj/item/clothing/under/f13/army
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/usarmy/officer
 	name = "US Army officer's combat uniform"
 	path = /obj/item/clothing/under/f13/army/officer
-	cost = 3
+	cost = 1
 
 /datum/gear/uniform/usnavy
 	name = "US Navy jumpsuit"
 	path = /obj/item/clothing/under/f13/navy
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/usnavy/officer
 	name = "US Navy officer's jumpsuit"
 	path = /obj/item/clothing/under/f13/navy/officer
-	cost = 3
+	cost = 1
 
 //CHINA
 
 /datum/gear/uniform/chinese
 	name = "PLA uniform"
 	path = /obj/item/clothing/under/f13/chinese
-	cost = 2
+	cost = 1
 
 /datum/gear/uniform/chinese/officer
 	name = "PLA officer's uniform"
 	path = /obj/item/clothing/under/f13/chinese/officer
-	cost = 3
+	cost = 1
 
 //Factions
 //NCR
@@ -1018,7 +1018,7 @@
 /datum/gear/uniform/wasteland/bodyguard
 	name = "Bodyguard outfit"
 	path = /obj/item/clothing/under/f13/bodyguard
-	cost = 2
+	cost = 1
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_WASTELAND
 
 /datum/gear/uniform/wasteland/formal
@@ -1042,13 +1042,13 @@
 /datum/gear/uniform/wasteland/bennys
 	name = "Fancy suit"
 	path = /obj/item/clothing/under/f13/bennys
-	cost = 2
+	cost = 1
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_WASTELAND
 
 /datum/gear/uniform/wasteland/batter
 	name = "Worn baseball uniform"
 	path = /obj/item/clothing/under/f13/batter
-	cost = 2
+	cost = 1
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_WASTELAND
 
 /datum/gear/uniform/wasteland/cowboyt
@@ -1060,19 +1060,19 @@
 /datum/gear/uniform/wasteland/police
 	name = "Police uniform"
 	path = /obj/item/clothing/under/f13/police
-	cost = 3 //Its 3 because it has some small armor against damage
+	cost = 1 //Its 3 because it has some small armor against damage
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_WASTELAND
 
 /datum/gear/uniform/wasteland/trooper
 	name = "State police uniform"
 	path = /obj/item/clothing/under/f13/police/trooper
-	cost = 2
+	cost = 1
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_WASTELAND
 
 /datum/gear/uniform/wasteland/formal
 	name = "Police formal uniform"
 	path = /obj/item/clothing/under/f13/police/formal
-	cost = 2
+	cost = 1
 	subcategory = LOADOUT_SUBCATEGORY_UNIFORM_WASTELAND
 
 /datum/gear/uniform/wasteland/roving
